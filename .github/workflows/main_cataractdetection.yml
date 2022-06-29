@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CataractDetection'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_428C20FCE4244ED0B16BE193325C7231 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB0D6416D6694B38B57A588757DF2960 }}
